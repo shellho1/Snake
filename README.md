@@ -4,6 +4,6 @@ C++ script that simulates the popular game "Snake" in the console windows on Win
 
 ## To-do:
 
--[x] Add comments
--[ ] Reduce global vars and create seperate classes
--[ ] Implement highscore based system
+- [x] Add comments
+- [ ] Reduce global vars and create seperate classes
+- [ ] Implement highscore based system

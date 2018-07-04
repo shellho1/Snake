@@ -20,12 +20,6 @@ void clear();
 void create_goal();
 char translate(int value);
 
-/*
-	---Global Variables---
-	Todo: reduce by either creating class and using getters/setters
-		  or passing via functions
-*/
-
 // grid dimensions
 const int WIDTH = 20;
 const int HEIGHT = 20;
